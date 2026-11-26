@@ -27,10 +27,6 @@ Portafolio/
 * **Descarga directa del CV** en formato PDF.
 * **Secciones organizadas:** Inicio, Sobre mí, Habilidades, Proyectos, Educación y Contacto.
 
-## Cómo visualizarlo
-
-1. Cloná o descargá este repositorio.
-2. Abrí `index.html` en tu navegador (o mediante una extensión como *Live Server* en VS Code).
 
 ## Contacto
 
